@@ -1,2 +1,3 @@
-# ml-ipynb
-Collection of Machine Learning notebooks
+# Machine Learning Journal
+
+A collection of Jupyter notebooks exploring machine learning concepts, algorithms, and experiments.
